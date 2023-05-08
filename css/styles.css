@@ -1,4 +1,17 @@
 :root {
+  --primary-text-color: #434455;
+  --secondary-text-color: #2e2f42;
+  --accent-color: #4d5ae5;
+  --hero-background-color: #2e2f42;
+  --hero-btn-color: #4d5ae5;
+  --hero-btn-hover-color: #404bbf;
+  --footer-background-color: #2e2f42;
+  --team-background-color: #f4f4fd;
+  --primary-white-color: #ffffff;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
 }
 
 .list {
@@ -14,6 +27,7 @@
 .menu {
 }
 .logotype {
+  font-family: "Raleway", sans-serif;
 }
 
 .nav-list {
