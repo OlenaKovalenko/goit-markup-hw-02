@@ -22,20 +22,35 @@ body {
   text-decoration: none;
 }
 
-.header-page {
-}
-.menu {
-}
+/* HEADER */
+
 .logotype {
   font-family: "Raleway", sans-serif;
 }
 
-.nav-list {
+.header-page {
 }
-
-.nav-link {
+.header-nav {
 }
-.contact-list {
+.logotype {
 }
-.contact-link {
+.link {
+}
+.logo-header {
+}
+.header-nav-list {
+}
+.list {
+}
+.header-nav-item {
+}
+.header-nav-link {
+}
+.header-contacts {
+}
+.header-contacts-list {
+}
+.header-contacts-item {
+}
+.header-contacts-link {
 }
