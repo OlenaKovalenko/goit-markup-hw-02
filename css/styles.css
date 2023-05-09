@@ -55,6 +55,12 @@ body {
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
+
+.header-nav-link:hover,
+.header-nav-link:focus {
+  color: var(--accent-color);
+}
+
 .header-contacts {
 }
 .header-contacts-list {
@@ -67,6 +73,11 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
+}
+
+.header-contacts-link:hover,
+.header-contacts-link:focus {
+  color: var(--accent-color);
 }
 
 /* SECTION HERO */
@@ -96,6 +107,7 @@ body {
   cursor: pointer;
 }
 
-.hero-btn:hover {
+.hero-btn:hover,
+.hero-btn:focus {
   background-color: var(--hero-btn-hover-color);
 }
