@@ -68,3 +68,34 @@ body {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
+
+/* SECTION HERO */
+
+.hero {
+  background-color: var(--hero-background-color);
+}
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--primary-white-color);
+}
+.hero-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: var(--primary-white-color);
+  background-color: var(--hero-btn-color);
+  cursor: pointer;
+}
+
+.hero-btn:hover {
+  background-color: var(--hero-btn-hover-color);
+}
