@@ -62,6 +62,10 @@ body {
   color: var(--accent-color);
 }
 
+.header-nav-link.current {
+  color: var(--accent-color);
+}
+
 .header-contacts {
 }
 .header-contacts-list {
