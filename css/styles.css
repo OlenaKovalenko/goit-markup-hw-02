@@ -114,3 +114,28 @@ body {
 .hero-btn:focus {
   background-color: var(--hero-btn-hover-color);
 }
+
+/* SECTION OUR ADVANTAGES */
+
+.advantages {
+}
+.advantages-title {
+}
+.advantages-list {
+}
+
+.advantages-item {
+}
+.section-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--secondary-text-color);
+}
+.section-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--primary-text-color);
+}
