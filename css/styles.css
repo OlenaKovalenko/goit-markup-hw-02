@@ -56,10 +56,10 @@ body {
   letter-spacing: 0.02em;
   color: var(--secondary-text-color);
 }
-
-.header-nav-link.current {
-  color: var(--accent-color);
-}
+/* 
+.current {
+  color: var();
+} */
 .header-nav-link:hover,
 .header-nav-link:focus {
   color: var(--accent-color);
