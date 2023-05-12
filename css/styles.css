@@ -92,9 +92,9 @@ body {
   color: var(--accent-color);
 }
 
-.header-nav-link.current {
+/* .header-nav-link.current {
   color: var(--accent-color);
-}
+} */
 
 .header-contacts {
   font-style: normal;
