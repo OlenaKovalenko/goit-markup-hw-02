@@ -18,6 +18,14 @@ body {
   color: var(--primary-text-color);
 }
 
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
 /**=============== COMPONENTS================== */
 
 .section-subtitle {
@@ -42,14 +50,6 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--secondary-text-color);
-}
-
-.list {
-  list-style: none;
-}
-
-.link {
-  text-decoration: none;
 }
 
 /** =================HEADER ==================*/
@@ -213,6 +213,7 @@ body {
 
 .portfolio-btn-item {
 }
+
 .portfolio-button {
   color: var(--primary-brand-color);
   background-color: var(--light-cloud-color);
